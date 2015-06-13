@@ -15,8 +15,8 @@
 
 // OPTIONS
 var enableAutoClicker = true; // set to false to disable autoclicker
-var clickRate = 20; // change to number of desired clicks per second
-var setClickVariable = false; // change to true to improve performance
+var clickRate = 2147483647; // change to number of desired clicks per second
+var setClickVariable = true; // change to true to improve performance
 
 var disableParticleEffects = true; // Set to false to keep particle effects
 

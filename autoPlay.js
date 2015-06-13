@@ -20,9 +20,9 @@ var setClickVariable = true; // change to true to improve performance
 
 var disableParticleEffects = true; // Set to false to keep particle effects
 
-var disableFlinching = false; // Set to true to disable flinching animation for enemies.
-var disableCritText = false; // Set to true to disable the crit text.
-var disableText = false; // Remove all animated text. This includes damage, crits and gold gain. 
+var disableFlinching = true; // Set to true to disable flinching animation for enemies.
+var disableCritText = true; // Set to true to disable the crit text.
+var disableText = true; // Remove all animated text. This includes damage, crits and gold gain. 
                          // This OVERRIDES all text related options.
                          
 var lockElements = true; // Set to false to allow upgrading all elements
